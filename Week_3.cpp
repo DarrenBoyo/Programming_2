@@ -34,6 +34,5 @@ int main()
            rectangle1.getArea()<<" and Perimeter is:"<< rectangle1.getPerimeter()<<endl;
     cout<<"The Area of Rectangle of height,"<<rectangle2.height<<" and width,"<<rectangle2.width<<" is:"<<
            rectangle2.getArea()<<" and Perimeter is:"<< rectangle2.getPerimeter()<<endl;
-    cout << "Hello world!" << endl;
     return 0;
 }
